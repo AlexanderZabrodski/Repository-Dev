@@ -11,3 +11,16 @@ C:\Users\HomePC\Source\Repos\HW.02\HW.02\bin\Debug\netcoreapp3.1\HW.02.pdb
 C:\Users\HomePC\Source\Repos\HW.02\HW.02\obj\Debug\netcoreapp3.1\HW.02.dll
 C:\Users\HomePC\Source\Repos\HW.02\HW.02\obj\Debug\netcoreapp3.1\HW.02.pdb
 C:\Users\HomePC\Source\Repos\HW.02\HW.02\obj\Debug\netcoreapp3.1\HW.02.genruntimeconfig.cache
+C:\Users\HomePC\Source\Repos\hw_dotnet\HW.02\HW.02\bin\Release\netcoreapp3.1\HW.02\HW.02\bin\Debug\netcoreapp3.1\HW.02.exe
+C:\Users\HomePC\Source\Repos\hw_dotnet\HW.02\HW.02\bin\Release\netcoreapp3.1\HW.02\HW.02\bin\Debug\netcoreapp3.1\HW.02.deps.json
+C:\Users\HomePC\Source\Repos\hw_dotnet\HW.02\HW.02\bin\Release\netcoreapp3.1\HW.02\HW.02\bin\Debug\netcoreapp3.1\HW.02.runtimeconfig.json
+C:\Users\HomePC\Source\Repos\hw_dotnet\HW.02\HW.02\bin\Release\netcoreapp3.1\HW.02\HW.02\bin\Debug\netcoreapp3.1\HW.02.runtimeconfig.dev.json
+C:\Users\HomePC\Source\Repos\hw_dotnet\HW.02\HW.02\bin\Release\netcoreapp3.1\HW.02\HW.02\bin\Debug\netcoreapp3.1\HW.02.dll
+C:\Users\HomePC\Source\Repos\hw_dotnet\HW.02\HW.02\bin\Release\netcoreapp3.1\HW.02\HW.02\bin\Debug\netcoreapp3.1\HW.02.pdb
+C:\Users\HomePC\Source\Repos\hw_dotnet\HW.02\HW.02\bin\Release\netcoreapp3.1\HW.02\HW.02\obj\Debug\netcoreapp3.1\HW.02.csprojAssemblyReference.cache
+C:\Users\HomePC\Source\Repos\hw_dotnet\HW.02\HW.02\bin\Release\netcoreapp3.1\HW.02\HW.02\obj\Debug\netcoreapp3.1\HW.02.AssemblyInfoInputs.cache
+C:\Users\HomePC\Source\Repos\hw_dotnet\HW.02\HW.02\bin\Release\netcoreapp3.1\HW.02\HW.02\obj\Debug\netcoreapp3.1\HW.02.AssemblyInfo.cs
+C:\Users\HomePC\Source\Repos\hw_dotnet\HW.02\HW.02\bin\Release\netcoreapp3.1\HW.02\HW.02\obj\Debug\netcoreapp3.1\HW.02.csproj.CoreCompileInputs.cache
+C:\Users\HomePC\Source\Repos\hw_dotnet\HW.02\HW.02\bin\Release\netcoreapp3.1\HW.02\HW.02\obj\Debug\netcoreapp3.1\HW.02.dll
+C:\Users\HomePC\Source\Repos\hw_dotnet\HW.02\HW.02\bin\Release\netcoreapp3.1\HW.02\HW.02\obj\Debug\netcoreapp3.1\HW.02.pdb
+C:\Users\HomePC\Source\Repos\hw_dotnet\HW.02\HW.02\bin\Release\netcoreapp3.1\HW.02\HW.02\obj\Debug\netcoreapp3.1\HW.02.genruntimeconfig.cache
